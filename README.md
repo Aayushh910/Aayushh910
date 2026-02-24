@@ -6,16 +6,15 @@ I’m an **Artificial Intelligence & Machine Learning student** at **CHARUSAT Un
 
 I enjoy working with **Python** and **modern web technologies** such as **HTML, CSS, JavaScript, and React**, along with backend frameworks like **FastAPI and Flask**. My main areas of interest include **AI Engineering** and **Full-Stack Web Development**.
 
-I have also solved **80+ Data Structures and Algorithms problems** on **LeetCode**, which has strengthened my **logical reasoning and coding skills**.  
-You can view my profile here:  
-🔗 [**LeetCode:**] https://leetcode.com/u/Aayushh01/
+I have also solved **80+ Data Structures and Algorithms problems** on **LeetCode**, which has strengthened my **logical reasoning and coding skills**. 
+
+You can view my profile here: 🔗 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=leetcode&logoColor=yellow)](https://leetcode.com/Aayushh01/)
 
 ---
 
 ## Socials
 
-[LinkedIn](https://www.linkedin.com/in/sarthak-talaviya-b33729317/)  
-[Email](mailto:stalaviya709@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-savaliya-50776b32a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushsavaliya910@gmail.com) 
 
 ---
 
