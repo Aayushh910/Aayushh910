@@ -4,7 +4,7 @@ Hi, I’m **Aayush Savaliya!** 👋
 
 I’m an **Artificial Intelligence & Machine Learning student** at **CHARUSAT University**. I am passionate about building **real-world, scalable software solutions** and continuously improving my **problem-solving, system design, and analytical skills**.
 
-I enjoy working with **Python** and **modern web technologies** such as **HTML, CSS, JavaScript, and React**, along with backend frameworks like **FastAPI and Flask**. My main areas of interest include **AI Engineering** and **Full-Stack Web Development**.
+I enjoy working with **Python** and **modern web technologies** such as **HTML, CSS, JavaScript, and React**, along with backend frameworks like **FastAPI and Flask**. My main areas of interest include **AI/ML Engineering** and **Full-Stack Web Development**.
 
 I have also solved **80+ Data Structures and Algorithms problems** on **LeetCode**, which has strengthened my **logical reasoning and coding skills**. 
 
