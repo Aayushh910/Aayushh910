@@ -8,7 +8,9 @@ I enjoy working with **Python** and **modern web technologies** such as **HTML, 
 
 I have also solved **80+ Data Structures and Algorithms problems** on **LeetCode**, which has strengthened my **logical reasoning and coding skills**. 
 
-You can view my profile here: 🔗 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=leetcode&logoColor=yellow)](https://leetcode.com/Aayushh01/)
+You can view my profile here:
+
+🔗 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=leetcode&logoColor=yellow)](https://leetcode.com/Aayushh01/)
 
 ---
 
