@@ -1,0 +1,5 @@
+<svg width="880" height="34" viewBox="0 0 880 34" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="880" height="34" fill="#0d1117"/>
+  <text x="0" y="22" font-family="SF Mono, Fira Code, Consolas, monospace" font-size="15" fill="#58a6ff" font-weight="bold">5. GITHUB STATS</text>
+  <line x1="286" y1="17" x2="880" y2="17" stroke="#30363d" stroke-width="2" stroke-dasharray="4,3"/>
+</svg>
