@@ -1,101 +1,58 @@
-<p align="center">
-  <img src="assets/header.svg" alt="terminal header" width="880"/>
-</p>
+# About Me
 
-<br/>
+Hi, I’m **Aayush Savaliya!** 👋  
 
-<img src="assets/div_about.svg" width="100%"/>
+I’m an **Artificial Intelligence & Machine Learning student** at **CHARUSAT University**. I am passionate about building **real-world, scalable software solutions** and continuously improving my **problem-solving, system design, and analytical skills**.
 
-```
-Passionate about Artificial Intelligence and building real-world impactful solutions.
-Currently focused on ML, LLMs, and Full-Stack Development.
-Goal: To become an AI/ML Engineer and build AI products that scale.
-```
+I enjoy working with **Python** and **modern web technologies** such as **HTML, CSS, JavaScript, and React**, along with backend frameworks like **FastAPI and Flask**. My main areas of interest include **AI/ML Engineering** and **Full-Stack Web Development**.
 
-<br/>
+I have also solved **80+ Data Structures and Algorithms problems** on **LeetCode**, which has strengthened my **logical reasoning and coding skills**. 
 
-<img src="assets/div_tech.svg" width="100%"/>
+You can view my profile here:
 
-|  |  |
-|---|---|
-| 🧩 **Frontend** | `React` `Tailwind CSS` `JavaScript` `Vite` |
-| ⚡ **Backend** | `FastAPI` `Python` |
-| 🗄️ **Database** | `PostgreSQL` `MongoDB` |
-| 🧠 **AI/ML** | `Python` `TensorFlow` `Keras` `Scikit-learn` |
-| 🛠️ **Tools** | `Git` `GitHub` `Docker` `Postman` `VS Code` |
-| ☁️ **Cloud** | `Render` `Vercel` `Neon` `GitHub Actions` |
-| 🔌 **Others** | `REST APIs` `WebSockets` `JWT` `OAuth` |
+🔗 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=leetcode&logoColor=yellow)](https://leetcode.com/Aayushh01/)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,react,tailwind,vite,fastapi,postgres,mongodb,tensorflow,docker,git,github,vscode&perline=6&theme=dark" />
-</p>
+---
 
-<br/>
+## Socials
 
-<img src="assets/div_skills.svg" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-savaliya-50776b32a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushsavaliya910@gmail.com) 
 
-```
-Python            ████████████████████░░  90%
-Machine Learning  █████████████████░░░░░  85%
-Deep Learning     █████████████████░░░░░  85%
-Data Analysis     ██████████████░░░░░░░░  70%
-FastAPI           █████████████████░░░░░  85%
-React.js          ████████████████░░░░░░  80%
-SQL / DBMS        ████████████████░░░░░░  80%
-LLM / NLP         ██████████████░░░░░░░░  70%
-Docker            ████████████░░░░░░░░░░  60%
-System Design     █████████████░░░░░░░░░  65%
-```
+---
 
-<br/>
+## Tech Stack
 
-<img src="assets/div_stats.svg" width="100%"/>
+### Programming and Web
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aayushh910&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=27C93F&text_color=C9D1D9&border_radius=12" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushh910&layout=donut&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=12" />
-</p>
+### Python Libraries
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/seaborn-%230C55A5.svg?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aayushh910&hide_border=true&background=0D1117&ring=27C93F&fire=FFBD2E&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" />
-</p>
+### Databases and Tools
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<br/>
+---
 
-<img src="assets/div_activity.svg" width="100%"/>
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayushh910&bg_color=0D1117&color=58A6FF&line=27C93F&point=FFBD2E&area_color=27C93F&area=true&hide_border=true" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Aayushh910&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Aayushh910&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushh910&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br/>
 
-<img src="assets/div_repos.svg" width="100%"/>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Aayushh910&repo=InterviewIQ&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=27C93F&text_color=C9D1D9&border_radius=12" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Aayushh910&repo=RoomMateX&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=27C93F&text_color=C9D1D9&border_radius=12" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Aayushh910&repo=AI-Smart-CustomerCare&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=27C93F&text_color=C9D1D9&border_radius=12" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Aayushh910&repo=ML-Models-Collection&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=27C93F&text_color=C9D1D9&border_radius=12" />
-</p>
-
-<br/>
-
-<img src="assets/div_contrib.svg" width="100%"/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayushh910&bg_color=0D1117&color=58A6FF&line=27C93F&point=FFBD2E&area_color=27C93F&area=true&hide_border=true&custom_title=Contribution+Graph" />
-</p>
-
-<br/>
-
-<img src="assets/div_connect.svg" width="100%"/>
-
-<p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=27C93F" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" /></a>
-  <a href="https://github.com/Aayushh910"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFBD2E" /></a>
-</p>
+---
