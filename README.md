@@ -14,12 +14,8 @@
 
 <samp>I build AI-powered web applications and LLM tools — from AI agents and RAG pipelines to APIs with FastAPI and interfaces with React. Currently exploring AI Agents & Automations. </samp>
 
-
-<img src="assets/h_beyond.png" width="100%" alt="BEYOND CODE" />
-
 <samp>200+ Solved LeetCode Problems.<br>
 5 Star on HackerRank (C++). <br>
-2 Star on HackerRank (Python + Algorithms + Java).
 </samp>
 
 <br/>
@@ -140,9 +136,9 @@
     <th align="center">HackerRank</th>
   </tr>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/aayush-savaliya-5"><img src="assets/social/linkedin.svg" width="60" /></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/aayush-savaliya"><img src="assets/social/linkedin.svg" width="60" /></a></td>
     <td align="center"><a href="mailto:aayushsavaliya910@gmail.com"><img src="assets/social/gmail.svg" width="60" /></a></td>
-    <td align="center"><a href="https://leetcode.com/u/Aayushh01/"><img src="assets/social/leetcode.svg" width="60" /></a></td>
+    <td align="center"><a href="https://leetcode.com/u/Aayushh910/"><img src="assets/social/leetcode.svg" width="60" /></a></td>
     <td align="center"><a href="https://www.hackerrank.com/profile/aayushsavaliya91"><img src="assets/social/hackerrank.svg" width="60" /></a></td>
   </tr>
 </table>
