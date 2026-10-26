@@ -1,58 +1,153 @@
-# About Me
+<div align="center">
 
-Hi, I’m **Aayush Savaliya!** 👋  
+<img src="assets/banner.png" width="100%" alt="Aayush Savaliya — AI Engineer / Full-Stack Developer" />
 
-I’m an **Artificial Intelligence & Machine Learning student** at **CHARUSAT University**. I am passionate about building **real-world, scalable software solutions** and continuously improving my **problem-solving, system design, and analytical skills**.
+</div>
 
-I enjoy working with **Python** and **modern web technologies** such as **HTML, CSS, JavaScript, and React**, along with backend frameworks like **FastAPI and Flask**. My main areas of interest include **AI/ML Engineering** and **Full-Stack Web Development**.
+<br/>
 
-I have also solved **80+ Data Structures and Algorithms problems** on **LeetCode**, which has strengthened my **logical reasoning and coding skills**. 
+<img src="assets/h_who.png" width="100%" alt="WHO I AM" />
 
-You can view my profile here:
+<samp>Hey, I'm Aayush — a B.Tech AI & ML student at CHARUSAT University, Ahmedabad, passionate about building software that solves real problems. I work at the intersection of AI agents, LLMs and full-stack development.</samp>
 
-🔗 [![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=leetcode&logoColor=yellow)](https://leetcode.com/Aayushh01/)
+<img src="assets/h_do.png" width="100%" alt="WHAT I DO" />
 
----
-
-## Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-savaliya-50776b32a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayushsavaliya910@gmail.com) 
-
----
-
-## Tech Stack
-
-### Programming and Web
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-### Python Libraries
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/seaborn-%230C55A5.svg?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Databases and Tools
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Aayushh910&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aayushh910&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushh910&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<samp>I build AI-powered web applications and LLM tools — from AI agents and RAG pipelines to APIs with FastAPI and interfaces with React. Currently exploring AI Agents & Automations. </samp>
 
 
----
+<img src="assets/h_beyond.png" width="100%" alt="BEYOND CODE" />
+
+<samp>200+ Solved LeetCode Problems.<br>
+5 Star on HackerRank (C++). <br>
+2 Star on HackerRank (Python + Algorithms + Java).
+</samp>
+
+<br/>
+
+<img src="assets/h_skills.png" width="100%" alt="SKILL SET" />
+<table align="center">
+  <tr>
+    <th align="left" width="14%">Languages</th>
+      <td align="center" width="12%"><img src="assets/skills/cpp.svg" width="56" /><br/><sub>C++</sub></td>
+      <td align="center" width="12%"><img src="assets/skills/python.svg" width="56" /><br/><sub>Python</sub></td>
+  </tr>
+  <tr>
+    <th align="left" width="14%">Full Stack</th>
+      <td align="center" width="12%"><img src="assets/skills/react.svg" width="56" /><br/><sub>React</sub></td>
+      <td align="center" width="12%"><img src="assets/skills/fastapi.svg" width="56" /><br/><sub>FastAPI</sub></td>
+      <td align="center" width="12%"><img src="assets/skills/cicd.svg" width="56" /><br/><sub>CI/CD</sub></td>
+      <td align="center" width="12%"><img src="assets/skills/html5.svg" width="56" /><br/><sub>HTML</sub></td>
+      <td align="center" width="12%"><img src="assets/skills/tailwind.svg" width="56" /><br/><sub>Tailwind</sub></td>
+  </tr>
+  <tr>
+    <th align="left" width="14%">Agentic AI</th>
+      <td align="center" width="12%"><img src="assets/skills/langchain.svg" width="56" /><br/><sub>LangChain</sub></td>
+      <td align="center" width="12%"><img src="assets/skills/langgraph.svg" width="56" /><br/><sub>LangGraph</sub></td>
+      <td align="center" width="12%"><img src="assets/skills/n8n.svg" width="56" /><br/><sub>n8n</sub></td>
+      <td align="center" width="12%"><img src="assets/skills/rag.svg" width="56" /><br/><sub>RAG</sub></td>
+      <td align="center" width="12%"><img src="assets/skills/vectordb.svg" width="56" /><br/><sub>Vector DB</sub></td>
+      <td align="center" width="12%"><img src="assets/skills/gemini.svg" width="56" /><br/><sub>Gemini</sub></td>
+      <td align="center" width="12%"><img src="assets/skills/groq.svg" width="56" /><br/><sub>Groq API</sub></td>
+  </tr>
+  <tr>
+    <th align="left" width="14%">Tools</th>
+      <td align="center" width="12%"><img src="assets/skills/github.svg" width="56" /><br/><sub>GitHub</sub></td>
+      <td align="center" width="12%"><img src="assets/skills/swagger.svg" width="56" /><br/><sub>Swagger</sub></td>
+      <td align="center" width="12%"><img src="assets/skills/postman.svg" width="56" /><br/><sub>Postman</sub></td>
+      <td align="center" width="12%"><img src="assets/skills/vscode.svg" width="56" /><br/><sub>VS Code</sub></td>
+      <td align="center" width="12%"><img src="assets/skills/vercel.svg" width="56" /><br/><sub>Vercel</sub></td>
+      <td align="center" width="12%"><img src="assets/skills/render.svg" width="56" /><br/><sub>Render</sub></td>
+      <td align="center" width="12%"><img src="assets/skills/docker.svg" width="56" /><br/><sub>Docker</sub></td>
+  </tr>
+</table>
+<br/>
+
+
+<img src="assets/h_work.png" width="100%" alt="MY WORK" />
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Anuvaad AI</h3>
+      <p><i>Multilingual AI-powered PDF understanding and language assistant</i></p>
+      <p>Breaks language barriers by helping users understand and interact with documents in English, Hindi, and Gujarati through multilingual AI and document-grounded answers.</p>
+      <strong>✨ Highlights</strong>
+      <ul>
+        <li>Retrieval-Augmented Generation (RAG) for document-grounded responses</li>
+        <li>PDF parsing, layout extraction, OCR, and page-aware chunking</li>
+        <li>Semantic and hybrid retrieval for relevant passages</li>
+        <li>Source citations and document references</li>
+      </ul>
+      <strong>🧰 Built with</strong>
+      <p>
+        <code>FastAPI</code>
+        <code>React</code>
+        <code>TypeScript</code>
+        <code>Tailwind CSS</code>
+        <code>LangChain</code>
+        <code>Groq</code>
+        <code>Docling</code>
+        <code>Qdrant</code>
+      </p>
+      <a href="https://github.com/Aayushh910/Anuvaad-AI">
+        <img src="https://img.shields.io/badge/View_Repository-2c5364?style=flat-square&logo=github&logoColor=white" alt="View Anuvaad AI repository" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎤 InterviewIQ</h3>
+      <p><i>AI-powered interview performance analyzer and career advisor</i></p>
+      <p>Helps candidates prepare for technical and behavioral interviews through interactive mock sessions, AI-generated follow-up questions, performance evaluation, and personalized feedback.</p>
+      <strong>✨ Highlights</strong>
+      <ul>
+        <li>AI-powered mock interviews and dynamic follow-up questions</li>
+        <li>Voice-based interaction and speech-to-text processing</li>
+        <li>Answer evaluation for relevance, clarity, and completeness</li>
+        <li>Interview performance scoring and personalized feedback</li>
+      </ul>
+      <strong>🧰 Built with</strong>
+      <p>
+        <code>FastAPI</code>
+        <code>React</code>
+        <code>Tailwind CSS</code>
+        <code>PostgreSQL</code>
+        <code>JWT</code>
+        <code>LLM APIs</code>
+        <code>NLP</code>
+      </p>
+      <a href="https://github.com/Aayushh910/InterviewIQ">
+        <img src="https://img.shields.io/badge/View_Repository-2c5364?style=flat-square&logo=github&logoColor=white" alt="View InterviewIQ repository" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<img src="assets/h_certs.png" width="100%" alt="CERTIFICATIONS" />
+
+<div align="center">
+
+<a href="https://github.com/Aayushh910/CERTIFICATES-REPO">
+  <img src="https://img.shields.io/badge/View%20My%20Certificates-2c5364?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### ✨ Stay tuned — more projects coming soon!
+<table align="center">
+  <tr>
+    <th align="center">LinkedIn</th>
+    <th align="center">Gmail</th>
+    <th align="center">LeetCode</th>
+    <th align="center">HackerRank</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/aayush-savaliya-5"><img src="assets/social/linkedin.svg" width="60" /></a></td>
+    <td align="center"><a href="mailto:aayushsavaliya910@gmail.com"><img src="assets/social/gmail.svg" width="60" /></a></td>
+    <td align="center"><a href="https://leetcode.com/u/Aayushh01/"><img src="assets/social/leetcode.svg" width="60" /></a></td>
+    <td align="center"><a href="https://www.hackerrank.com/profile/aayushsavaliya91"><img src="assets/social/hackerrank.svg" width="60" /></a></td>
+  </tr>
+</table>
+<br/>
+
+<img src="assets/footer.png" width="100%" alt="" />
+
+</div>
